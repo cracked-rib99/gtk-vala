@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=gtk-program-v2
+GenericName=gtk-program-v2
+Comment=Proves that we can use Vala and Gtk
+Categories=Utility;Education;
+Exec=com.github.cracked-rib99.gtk-vala
+Icon=application-default-icon
+Terminal=false
+Type=Application
+X-GNOME-Gettext-Domain=gtk-program-v2
+Keywords=gtk;program;v2;second

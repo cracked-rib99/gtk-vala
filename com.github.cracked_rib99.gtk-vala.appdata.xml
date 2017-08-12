@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2017 Tudor Teodorescu tudor.svt91@gmail.com -->
+<component type="desktop">
+  <id>com.github.cracked-rib99.gtk-vala.desktop</id>
+  <metadata_license>CC0</metadata_license>
+  <name>gtk-program-v2</name>
+  <summary>not much to say</summary>
+  <description>
+    <p>Just a quick program written in vala and gtk....</p>
+  </description>
+</component>
